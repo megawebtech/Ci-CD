@@ -234,6 +234,7 @@ Finished: SUCCESS
 
 Nexus установлен
 
+https://github.com/megawebtech/Ci-CD/blob/main/nexus.PNG
 
 
 
