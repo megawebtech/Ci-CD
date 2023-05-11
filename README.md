@@ -11,6 +11,12 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+Pipelint настройки (скриншот):
+
+https://github.com/megawebtech/Ci-CD/blob/main/pipe1.PNG
+
+
+
 
 Установлен jenkins на машину из yandex cloud
 Создан проект 
@@ -127,6 +133,10 @@ pipeline {
 
 
 Результат положительный:
+
+https://github.com/megawebtech/Ci-CD/blob/main/res_pipe3.PNG
+
+
 
 
 Started by user cctv
